@@ -38,7 +38,7 @@ Definition:
 
 ### BIO
 
-HttpBio.java
+[HttpBio.java](https://github.com/sicwillsonchan/javaIO/blob/main/src/main/java/Bio/HttpBio.java)
 
 编译后运行:
 
@@ -125,7 +125,7 @@ DESCRIPTION
 
 ### NIO
 
-HttpNio.java
+[HttpNio.java](https://github.com/sicwillsonchan/javaIO/blob/main/src/main/java/Nio/HttpNio.java)
 
 运行之后的结果:
 
